@@ -1,1 +1,0 @@
-rds|acceso:1|denegado:0
