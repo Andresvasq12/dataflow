@@ -1,1 +1,1 @@
-rds|conectar:1|desconectar:0
+rds|conectar:1|enviar:0
